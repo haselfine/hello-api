@@ -1,0 +1,4 @@
+/env/
+bitcoin.py
+cat_fact.py
+__pycache__
